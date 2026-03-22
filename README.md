@@ -1,16 +1,28 @@
-## Hi there 👋
+💫 About Me:
+UI/UX projects using Figma and creative layouts in Photoshop.
+Open-source design systems and mobile app UI.
+Mastering advanced auto-layouts and design handoffs.
+Figma Animation (Prototyping) and advanced photo manipulation.
+UI Design, Color Theory, and Layer masking.
+I spend more time picking the “perfect” font than actually designing the page!
 
-<!--
-**Raj226295/Raj226295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[Facebook](https://facebook.com/Raj Vardhan Singh) Instagram LinkedIn YouTube [Mastodon](https://mastodon.social/@RAJ VARDHAN) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+JavaScript Java Python Kotlin HTML5 .Net Bootstrap NodeJS Apache Apache Tomcat MySQL MongoDB Firebase Adobe Adobe After Effects Adobe Illustrator Adobe Lightroom Adobe Photoshop Canva Figma NumPy Matplotlib Pandas scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
