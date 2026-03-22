@@ -7,7 +7,10 @@ UI Design, Color Theory, and Layer masking.
 I spend more time picking the “perfect” font than actually designing the page!
 
 🌐 Socials:
-[Facebook](https://facebook.com/Raj Vardhan Singh) Instagram LinkedIn YouTube [Mastodon](https://mastodon.social/@RAJ VARDHAN) email
+[Facebook](https://facebook.com/Raj Vardhan Singh) 
+.[Instagram](https://www.instagram.com/mr_rajput9440/) 
+.[LinkedIn](https://www.linkedin.com/in/raj-vardhan-singh-89178431a/)
+.[YouTube][Mastodon](https://mastodon.social/@RAJ VARDHAN) email
 
 💻 Tech Stack:
 JavaScript Java Python Kotlin HTML5 .Net Bootstrap NodeJS Apache Apache Tomcat MySQL MongoDB Firebase Adobe Adobe After Effects Adobe Illustrator Adobe Lightroom Adobe Photoshop Canva Figma NumPy Matplotlib Pandas scikit-learn
